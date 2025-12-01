@@ -17,7 +17,7 @@ This project contains practical PyTorch examples and utilities to help you get s
 
 1. Clone this repository:
 ```bash
-git clone <your-repo-url>
+git clone <repo-url>
 cd pytorch-easy-use
 ```
 
